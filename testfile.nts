@@ -1,0 +1,10 @@
+# loul xd
+.chipsets:
+input a
+input b
+4081 bjr
+output s
+.links:
+a:1 bjr:1
+b:1 bjr:2
+s:1 bjr:3
